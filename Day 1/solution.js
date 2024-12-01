@@ -73,7 +73,7 @@ const partTwo = () => {
         });
     
         // Output
-        console.log(`Total distance: ${simScore}`)
+        console.log(`Similarity score: ${simScore}`)
     });
 };
 
