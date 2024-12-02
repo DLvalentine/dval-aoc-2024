@@ -32,7 +32,7 @@ const partOne = () => {
         });
     
         // Output
-        console.log(`Total distance: ${distanceTotal}`)
+        console.log(`Total distance: ${distanceTotal}`);
     });
 };
 
@@ -73,7 +73,7 @@ const partTwo = () => {
         });
     
         // Output
-        console.log(`Similarity score: ${simScore}`)
+        console.log(`Similarity score: ${simScore}`);
     });
 };
 
